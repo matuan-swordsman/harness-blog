@@ -3,6 +3,7 @@
 > 一个**分 6 篇**的动手实践系列：从零把一个 ASP.NET Core WebAPI 改造成
 > 「AI 时代靠谱工程」——让 AI 编码代理（和人类协作者）在**机械强制的质量门**保护下快速产出代码。
 
+- **代码仓库**：<https://github.com/matuan-swordsman/harness-blog>（本系列全部文章 + 示例工程源码）
 - **配套示例工程**：[`../harness-blog-sample/`](../harness-blog-sample/README.md)（本系列每一篇的"最终答案"，可直接 clone 对照）
 - **原理长文**：[`../harness-engineering-aspnetcore.md`](../harness-engineering-aspnetcore.md)（harness engineering 的原理与理论，本系列重"动手"）
 

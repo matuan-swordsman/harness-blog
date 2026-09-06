@@ -1,0 +1,2 @@
+# lint baseline - 存量规范违规登记（由 scripts/lint.ps1 -UpdateBaseline 自动生成）
+# 格式：文件名:行号:规则名。门禁只拦截不在基线中的新增违规；存量违规为已知债务。

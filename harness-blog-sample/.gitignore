@@ -1,0 +1,22 @@
+# ---- .NET 构建产物 ----
+bin/
+obj/
+*.user
+*.suo
+
+# ---- 测试结果与覆盖率 ----
+test-results/
+coverage*.xml
+
+# ---- IDE / 编辑器 ----
+.vs/
+.vscode/
+.idea/
+
+# ---- 日志 / 临时 ----
+*.log
+*.tmp
+
+# ---- OS ----
+Thumbs.db
+.DS_Store

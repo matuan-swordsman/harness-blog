@@ -1,0 +1,6 @@
+# HarnessLab 示例：最小 .editorconfig（配合 scripts/harness.ps1 的 format 阶段）
+root = true
+
+[*.cs]
+# CS1591: 缺少公共可见成员 XML 注释 —— 示例工程暂不强制文档注释
+dotnet_diagnostic.CS1591.severity = silent
